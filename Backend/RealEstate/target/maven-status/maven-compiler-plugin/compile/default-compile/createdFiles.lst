@@ -1,0 +1,17 @@
+com\cdac\entity\InterestedTenant.class
+com\cdac\controller\AgentController.class
+com\cdac\entity\User.class
+com\cdac\repository\TransactionRepository.class
+com\cdac\service\TransactionService.class
+com\cdac\repository\PropertyRepository.class
+com\cdac\controller\PropertyController.class
+com\cdac\entity\Transaction.class
+com\cdac\service\PropertyService.class
+com\cdac\entity\Property.class
+com\cdac\controller\UserController.class
+com\cdac\controller\AdminController.class
+com\cdac\RealEstateApplication.class
+com\cdac\repository\InterestedTenantRepository.class
+com\cdac\controller\TransactionController.class
+com\cdac\repository\UserRepository.class
+com\cdac\service\UserService.class
